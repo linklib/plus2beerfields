@@ -1,7 +1,7 @@
 {
-  "name": "@prisma-cms/module-bilerplate",
-  "description": "Module boilerplate for @prisma-cms/server",
-  "version": "1.1.1-beta",
+  "name": "plus2beerfields",
+  "description": "Add 2 new fields fore beer info",
+  "version": "1.0",
   "main": "src/",
   "files": [
     "src"
