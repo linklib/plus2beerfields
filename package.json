@@ -1,6 +1,6 @@
 {
   "name": "plus2beerfields",
-  "description": "Add 2 new fields fore beer info",
+  "description": "Add 2 new fields fore beer info. Based on @prisma-cms/module-boilerplate.",
   "version": "1.0",
   "main": "src/",
   "files": [
