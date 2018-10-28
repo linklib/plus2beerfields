@@ -1,0 +1,5 @@
+type Beer {
+  id: ID! @unique
+  beerpaser: Boolean
+  beerfilter: Boolean
+}
